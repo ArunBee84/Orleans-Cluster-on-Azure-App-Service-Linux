@@ -51,8 +51,8 @@ The app is architected as follows:
 
 ### Quickstart
 
-1. `git clone https://github.com/Azure-Samples/Orleans-Cluster-on-Azure-App-Service.git orleans-on-app-service`
-1. `cd orleans-on-app-service`
+1. `git clone https://github.com/Azure-Samples/Orleans-Cluster-on-Azure-App-Service-Linux.git orleans-on-app-service-linux`
+1. `cd orleans-on-app-service-linux`
 1. `dotnet run --project Silo\Orleans.ShoppingCart.Silo.csproj`
 
 ### Acknowledgements
